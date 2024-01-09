@@ -4,7 +4,6 @@
 
 This project is a simple implementation of the classic Tic Tac Toe game. It provides a user interface for playing the game with options for different game modes, including Human vs Human, Human vs Easy AI, and Human vs Hard AI.
 
-![Tic Tac Toe Screenshot](screenshot.png)
 
 ## Features
 
